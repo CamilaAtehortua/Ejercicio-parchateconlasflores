@@ -1,0 +1,44 @@
+.Parchateconlasflores {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  background-color: rgba(212, 209, 23, 0.836)
+}
+
+.tabla {
+margin: auto;
+}
+
+.fila-1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+.columna{
+  color: rgb(88, 13, 228);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(42, 235, 235);
+border: 3px solid black;
+height: 13px;
+width: 13px;
+padding: 6px;
+}
+
+.Columna1{
+  color: rgb(88, 13, 228);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(42, 235, 235);
+border: 3px solid black;
+height: 13px;
+width: 13px;
+padding: 6px;
+}
+
+.Columna2{
+  color: rgb(88, 13, 228);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(42, 235, 235);
+  border: 3px solid black;
+  height: 13px;
+  width: 13px;
+  padding: 6px;
+}
